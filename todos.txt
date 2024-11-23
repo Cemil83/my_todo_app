@@ -1,0 +1,7 @@
+selam
+add
+delete
+pronto
+kuzu
+masa
+

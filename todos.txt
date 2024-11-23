@@ -1,7 +1,4 @@
-selam
 add
-delete
-pronto
-kuzu
-masa
-
+ali
+selam
+ad new todo

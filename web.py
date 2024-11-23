@@ -23,4 +23,4 @@ for index,todo in enumerate(todos):
         todos.pop(index)
         functions.write_todos(todos)
         del session_state[todo]
-        st.experimental_rerun()
+        st.rerun()

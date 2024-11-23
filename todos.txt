@@ -1,4 +1,3 @@
 add
 ali
 selam
-ad new todo
